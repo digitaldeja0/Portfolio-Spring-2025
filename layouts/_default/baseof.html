@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Deja Cherese, UX/UI, Web Developer, Freelancer, Game Dev">
+    <meta name="description" content="Hey, I'm Deja 👋. I design and develop engaging, beautiful products.">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/global.css">
+
+    <title>{{ .Page.Title }}</title>
+</head>
+
+<body >
+    <main class="main-container">
+
+        {{ partial "nav.html" }}
+        {{ block "main" . }}
+        {{ end }}
+        {{ partial "footer.html" }}
+    </main>
+
+
+    
+</body>
+
+</html>

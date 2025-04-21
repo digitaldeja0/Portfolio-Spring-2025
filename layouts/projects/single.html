@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="section-spacing">
+
+    <p>{{.Params.projectType}}</p>
+    <h1>{{.Params.projectDescription}}</h1>
+    <a class="btn-prim-lg" href={{.Params.link}}>{{.Params.linkName}}</a>
+    <img class="img-project-hero" src={{.Params.bannerLink}} >
+
+    <p>{{.Params.summary}}</p>
+    <a class="btn-prim-lg" href="/projects/">Other Projects</a>
+
+
+
+
+</section>
+
+{{ end }}

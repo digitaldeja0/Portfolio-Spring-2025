@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Deja Portfolio</title>
+    <link>https://example.org/projects/</link>
+    <description>Recent content in Projects on Deja Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Email Development</title>
+      <link>https://example.org/projects/email/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/email/</guid>
+      <description>Working at the intersection of design, development, and data, I helped bring dynamic, personalized email journeys to life. From wireframing to final deployment, I was hands-on in creating responsive email templates that looked great across clients — while also optimizing performance through A/B testing, segmentation, and data-driven strategy. I thrived in a fast-paced environment where quick iterations were essential. Whether it was fine-tuning mobile responsiveness, adapting to the quirks of different email clients, or adjusting content based on real-time insights, I moved with both speed and intention. Collaboration was key — I regularly worked with marketers, copywriters, data teams, and product leads to make sure every message aligned with the brand’s voice and met user needs. The result? Email experiences that weren’t just delivered — they connected.</description>
+    </item>
+    <item>
+      <title>Fusion:Dance and Photography</title>
+      <link>https://example.org/projects/project-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/project-management/</guid>
+      <description>I co-led the creation of a one-day event that blended networking, dance, and photography into a dynamic, hands-on experience centered around human connection. This wasn’t just another mixer — it was a collaborative effort to design an atmosphere where people could engage in energizing ways, beyond small talk. Working closely with artists, facilitators, and community members, I helped shape the flow of the event, coordinate logistics, and map out an experience that felt intentional from start to finish. My focus was on service design — making sure every touchpoint, from the environment to the activities, supported meaningful interaction. The result was a space that felt playful, welcoming, and deeply human — where attendees walked away not only with new contacts, but with real shared moments.</description>
+    </item>
+    <item>
+      <title>Rebellion Stryker</title>
+      <link>https://example.org/projects/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/web/</guid>
+      <description>During a fast-paced game jam, I took on the role of web developer to design and launch a fun, engaging website that captured the spirit of our 2.5D game. The goal was to create a branded online presence that would attract organic interest and grow a fan base even before the game was complete. I focused on building a playful, responsive landing page that showcased key visuals, trailers, and updates while staying true to the game&amp;rsquo;s tone. The site helped generate early excitement, boosted traffic, and gave our project a polished edge during and after the jam. Beyond the web, I also contributed to early game development—specifically mapping and level design. I worked with the team to source and organize 3D assets, and helped design the layout and flow for the first two stages of the game. This included creating initial map structures, defining player paths, and integrating assets in a way that supported both visual storytelling and gameplay. My work helped establish the foundation for the game&amp;rsquo;s world and ensured consistency between the digital presence and the in-game experience.</description>
+    </item>
+    <item>
+      <title>Recipedia</title>
+      <link>https://example.org/projects/ux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/ux/</guid>
+      <description>I’ve always loved finding ways to improve digital experiences, so I took on a personal project to design a recipe app that would help users discover, organize, and share recipes with ease. I wanted to continue expanding my knowledge and skills, and this project became a perfect opportunity to apply everything I was learning. Over the course of three years, I worked on every aspect of the app’s design, from mapping out user flows to testing various interfaces. I focused on solving real user problems like confusing navigation and difficult search functions, making sure that the final product was both functional and enjoyable to use. In the end, I built a fully interactive site to showcase the app, turning my vision into a tangible tool that people could actually use.</description>
+    </item>
+    <item>
+      <title>Technical Teaching</title>
+      <link>https://example.org/projects/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/teaching/</guid>
+      <description>As a technical educator, I created and hosted live content on Twitch and YouTube to make design and development more approachable for beginners and self-taught learners. Through livestreamed workshops, hands-on tutorials, and community discussions, I helped demystify concepts across UI/UX, web development, and game design. My goal was to make learning feel collaborative and fun — not overwhelming. I structured each session around real-world challenges, encouraging viewers to ask questions, follow along, and build with confidence. Whether it was teaching HTML fundamentals or walking through the logic of a game mechanic, I focused on clarity, encouragement, and momentum. Over time, the content helped foster a small but growing community of curious, creative learners.</description>
+    </item>
+  </channel>
+</rss>

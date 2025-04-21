@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="section-spacing bg-white ">
+  <h1 class="h1-page-title"><strong>{{ .Title }}</strong></h1>
+  <div class="card-grid">
+
+    {{ range .Pages }}
+    
+      <div class="project-card">
+        <a href="{{ .RelPermalink }}" class="a-card">
+        {{ with .Params.mainImg }}
+        <img alt="{{ $.Title }} image" src="{{ . }}" class="card-img">
+      {{ else }}
+        <img alt="Placeholder image" src="https://dummyimage.com/320x180/000/fff" class="card-img">
+      {{ end }}
+
+      </a>
+      </div>
+
+    {{ end }}
+
+  </div>
+</section>
+</div>
+{{ end }}
