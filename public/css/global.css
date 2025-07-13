@@ -87,6 +87,7 @@ a {
 
 .a-main-nav {
   cursor: pointer;
+  
 }
 
 .a-card {
@@ -142,6 +143,11 @@ a {
 }
 
 /* Section Layout */
+
+.section{
+  padding-bottom:20px;
+}
+
 .section-spacing {
   padding-left: 24px;
   padding-right: 24px;

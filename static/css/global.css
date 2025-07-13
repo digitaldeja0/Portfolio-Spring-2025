@@ -73,20 +73,24 @@ a {
   color: var(--black);
   text-decoration: none;
 }
-.a-main-nav {
+.a-main-nav, .a-projects-nav  {
   text-decoration: none;
   color: white;
   font-size: 20px;
-  display: block;
-  margin: auto;
-  margin-bottom: 16px;
+  display: inline-block;
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-weight:300;
+  margin: 10px 20px;
 }
 
-.a-main-nav {
+.a-main-nav:hover, .a-projects-nav:hover {
   cursor: pointer;
+}
+
+.a-projects-nav {
+  background-color:var(--primary-clr);
+  padding:5px 10px;
 }
 
 .a-card {
@@ -142,6 +146,9 @@ a {
 }
 
 /* Section Layout */
+.section{
+  padding-bottom:20px;
+}
 .section-spacing {
   padding-left: 24px;
   padding-right: 24px;
@@ -211,6 +218,10 @@ footer {
 
 nav {
   margin-bottom: 24px;
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+  width:100%;
 }
 
 footer {
