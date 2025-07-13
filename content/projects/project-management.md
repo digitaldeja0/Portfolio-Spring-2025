@@ -1,6 +1,6 @@
 +++
 title = "Fusion:Dance and Photography"
-draft = false
+draft = true
 projectType = "Project Management"
 projectDescription="Designing a One-Day Networking Event with Movement and Meaning."
 projectName = "Fusion:Dance and Photography"

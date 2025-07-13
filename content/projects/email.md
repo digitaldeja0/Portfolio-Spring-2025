@@ -1,6 +1,6 @@
 +++
 title = "Email Development"
-draft = false
+draft = true
 projectType = "Email Development"
 projectDescription="Crafting Smart Emails: Personalization, Performance & Precision."
 projectName = "Email Development"

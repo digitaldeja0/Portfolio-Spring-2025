@@ -1,6 +1,6 @@
 +++
 title = "Technical Teaching"
-draft = false
+draft = true
 projectType = "Education and Instruction"
 projectDescription="Bridging Creativity and Code: Teaching Design & Development Live."
 projectName = "Technical Teaching"
