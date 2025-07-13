@@ -82,6 +82,7 @@ a {
   font-family: "Roboto", sans-serif;
   font-weight:300;
   margin: 10px 20px;
+  padding:5px 10px;
 }
 
 .a-main-nav:hover, .a-projects-nav:hover {
@@ -221,6 +222,7 @@ nav {
   display:flex;
   flex-direction:row;
   justify-content:space-between;
+  align-items:center;
   width:100%;
 }
 
@@ -334,7 +336,6 @@ footer {
 
 @media only screen and (min-width: 1279px) {
   h1,
-    h2,
     h3{
         line-height: 48px;
     }
@@ -344,7 +345,8 @@ footer {
   }
 
   h2 {
-    font-size: 40px;
+    font-size: 48px;
+    line-height: 50px;
     font-weight: 300;
   }
 
